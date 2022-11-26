@@ -1,14 +1,9 @@
 {
-  "Book": [
+  "Todo": [
     {
-      "id":"1",
-      "image":"",
-      "name":"Harry Potter and the Philosophers Stone(1997)",
-      "author":"JK Rowlind",
-      "Price":"499Rs"
+      "id": "1",
+      "name": "task1",
+      "status": "false"
     }
-   
   ]
- 
- 
 }
