@@ -1,9 +1,3 @@
 {
-  "Todo": [
-    {
-      "id": "1",
-      "name": "task1",
-      "status": "false"
-    }
-  ]
+  "Todo": []
 }
