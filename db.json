@@ -1,3 +1,46 @@
 {
-  "Todo": []
+  "Todo": [
+    {
+      "title": "learn tech",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "learn fetch",
+      "status": true,
+      "id": 2
+    },
+    {
+      "title": "Learn fetch",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Learn",
+      "status": false,
+      "id": 4
+    }
+  ],
+  "Products": [
+    {
+      "name": "SmartPhone",
+      "price": 30,
+      "id": 0
+    },
+    {
+      "name": "Watch",
+      "price": 20,
+      "id": 1
+    },
+    {
+      "name": "Shirt",
+      "price": 50,
+      "id": 2
+    },
+    {
+      "name": "Pants",
+      "price": 100,
+      "id": 3
+    }
+  ]
 }
