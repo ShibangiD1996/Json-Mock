@@ -1517,5 +1517,26 @@
         "country": "Zimbabwe",
         "city": "Harare"
     }
-]
+],
+    "healthcareproducts":[
+        {
+            "id":1,
+            "category1":{
+                "id":"c1",
+                "name":"wintercare",
+                "image":"",
+                "subcategory":{
+                    "id":"sub1",
+                    "name":"",
+                    "image":""
+                }
+            },
+            "category2":{
+                "id":"c1",
+                "name":"summercare"
+            }
+
+        }
+    
+    ]
 }
