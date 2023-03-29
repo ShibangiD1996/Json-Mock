@@ -408,25 +408,52 @@
   ],
   "movies": [
     {
-      "id" : 1,
-      "poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-      "title" : "Doctor Strange in the Multiverse of Madness",
-      "director" : "Sam Raimi",
-      "year" : 2022,
-      "genre" : "Action",
-      "IMDB_Rating" : 6.8,
-      "ticket" : 200
+      "id": 1,
+      "poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "director": "Sam Raimi",
+      "year": 2022,
+      "genre": "Action",
+      "IMDB_Rating": 6.8,
+      "ticket": 200
     },
     {
-      "id" : 2,
-      "poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-      "title" : "I Am Legend",
-      "director" : "Francis Lawrence",
-      "year" : 2007,
-      "genre" : "Horror",
-      "IMDB_Rating" : 7.2,
-      "ticket" : 200
+      "id": 2,
+      "poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+      "title": "I Am Legend",
+      "director": "Francis Lawrence",
+      "year": 2007,
+      "genre": "Horror",
+      "IMDB_Rating": 7.2,
+      "ticket": 200
+    }
+  ],
+
+  "Grocery": [
+    {
+      "id": 1,
+      "name": "Turmeric",
+      "image": "https://www.shutterstock.com/image-photo/turmeric-powderturmeric-260nw-745635136.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tea",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61vhbGIVQeL._SX522_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tea",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61vhbGIVQeL._SX522_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tea",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61vhbGIVQeL._SX522_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tea",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61vhbGIVQeL._SX522_.jpg"
     }
   ]
-
 }
