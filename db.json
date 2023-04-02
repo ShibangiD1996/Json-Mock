@@ -455,5 +455,14 @@
       "name": "Tea",
       "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61vhbGIVQeL._SX522_.jpg"
     }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Shibangi Das",
+      "email": "shibangidas109@gmail.com",
+      "password": "shibangi"
+    }
   ]
 }
