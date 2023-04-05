@@ -464,5 +464,33 @@
       "email": "shibangidas109@gmail.com",
       "password": "shibangi"
     }
+  ],
+
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Java",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "Learn Javascript",
+      "status": false
+    },
+    {
+      "id": 3,
+      "title": "Learn React",
+      "status": false
+    },
+    {
+      "id": 4,
+      "title": "Learn MongoDB",
+      "status": false
+    },
+    {
+      "id": 5,
+      "title": "Learn Nodejs",
+      "status": false
+    }
   ]
 }
