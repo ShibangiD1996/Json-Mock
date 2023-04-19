@@ -462,7 +462,8 @@
       "id": 1,
       "name": "Shibangi Das",
       "email": "shibangidas109@gmail.com",
-      "password": "shibangi"
+      "password": "shibangi",
+      "repeat_password": "shibangi"
     }
   ],
 
@@ -493,7 +494,7 @@
       "status": false
     }
   ],
-  "Masailibrary":[
+  "Masailibrary": [
     {
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
       "book_name": "Harry Potter and the Philosopher's Stone",
@@ -505,5 +506,4 @@
       "borrowed": false
     }
   ]
-
 }
